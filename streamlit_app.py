@@ -1,5 +1,5 @@
 import streamlit as st
+st.title('🎈 Aspect Sentiment Analysis')
 
-st.title('🎈 App Name')
-
+st.text_area= st.text_area('Enter your text', '', height=200)
 st.write('Hello world!')
